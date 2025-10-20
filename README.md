@@ -1,6 +1,6 @@
 # How to run tests
 
-To run tests in this repo, please following commands:
+To run tests in this repo, please run following commands:
 
 Install dependencies
 `npm install`
